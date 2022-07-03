@@ -1,0 +1,391 @@
+{
+  "orders": [
+    {
+      "id": 5205,
+      "shipping_status": "in_process",
+      "date_created": "2020-03-25T07:42:28+02:00",
+      "date_modified": "2020-03-25T07:42:28+02:00",
+      "line_items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe dea Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's sa Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 5204,
+      "shipping_status": "in_process",
+      "date_created": "2020-03-25T07:42:28+02:00",
+      "date_modified": "2020-03-25T07:42:28+02:00",
+      "line_items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe Zanotti Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 5203,
+      "shipping_status": "in_process",
+      "date_created": "2020-03-25T07:42:28+02:00",
+      "date_modified": "2020-03-25T07:42:28+02:00",
+      "line_items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000258",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe Zanotti Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 5202,
+      "shipping_status": "awaiting",
+      "date_created": "2020-03-25T07:42:28+02:00",
+      "date_modified": "2020-03-25T07:42:28+02:00",
+      "line_items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe Zanotti Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 5201,
+      "shipping_status": "awaiting",
+      "date_created": "2020-03-25T07:42:28+02:00",
+      "date_modified": "2020-03-25T07:42:28+02:00",
+      "line_items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe Zanotti Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 5200,
+      "shipping_status": "awaiting",
+      "date_created": "2020-03-25T07:42:28+02:00",
+      "date_modified": "2020-03-25T07:42:28+02:00",
+      "line_items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe Zanotti Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 5199,
+      "shipping_status": "awaiting",
+      "date_created": "2020-03-25T07:42:28+02:00",
+      "date_modified": "2020-03-25T07:42:28+02:00",
+      "line_items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe Zanotti Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 11,
+      "type": "basic",
+      "sku": "00000011",
+      "name": "Cotton Twill Shirt for men",
+      "category_id": 6,
+      "category_name": "Shirts",
+      "price_net": 127.72,
+      "price_gross": 127.72,
+      "url": "https://shop.demo.ro/shirts/cotton-twill-shirt-for-men",
+      "date_created": "2019-01-29T16:43:35+02:00",
+      "date_modified": "2020-03-01T20:55:51+02:00",
+      "status": "active",
+      "visibility": "visible",
+      "is_listed": true,
+      "in_stock": true,
+      "stock": 13,
+      "total_sales": 0,
+      "total_units_sold": 0,
+      "total_views": 0,
+      "warehouses": [
+        {
+          "id": 1,
+          "name": "SOCUM",
+          "stock": 4,
+          "label": "23-01-03-01"
+        },
+        {
+          "id": 2,
+          "name": "Supplier warehouse",
+          "stock": 8,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "basic",
+      "sku": "00000012",
+      "name": "Cotton Twill Shirt for men",
+      "category_id": 6,
+      "category_name": "Shirts",
+      "price_net": 121.22,
+      "price_gross": 121.22,
+      "url": "https://shop.demo.ro/shirts/cotton-twill-shirt-for-men",
+      "date_created": "2019-01-29T16:43:35+02:00",
+      "date_modified": "2020-03-01T20:55:51+02:00",
+      "status": "active",
+      "visibility": "visible",
+      "is_listed": true,
+      "in_stock": true,
+      "stock": 8,
+      "total_sales": 0,
+      "total_units_sold": 0,
+      "total_views": 0,
+      "warehouses": [
+        {
+          "id": 1,
+          "name": "SOCUM",
+          "stock": 2,
+          "label": "12-03-05-06"
+        },
+        {
+          "id": 2,
+          "name": "Supplier warehouse",
+          "stock": 8,
+          "label": null
+        }
+      ]
+    }
+  ],
+  "boxes": [
+    {
+      "box_label": "BOX001",
+      "order": 5203,
+      "status": "packing",
+      "items": [
+        {
+          "item_type": "product",
+          "product_id": 259,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Giuseppe Zanotti Women's Swarovski Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=259",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/7/giuseppe-zanotti-women-s-swarovski-sandal~27.jpg",
+          "quantity": 1,
+          "progress": 0
+        },
+        {
+          "item_type": "product",
+          "product_id": 260,
+          "product_sku": "00000259",
+          "product_ean": "0913983109831",
+          "product_name": "Women's Nunaked Dress Sandal",
+          "product_url": "https://shop.demo.ro/cumpara?id=260",
+          "product_image_url": "https://s.cdnmpro.com/272414248/p/l/9/women-s-nunaked-dress-sandal~29.jpg",
+          "quantity": 2,
+          "progress": 0
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "loc_label": "01 - 01 - 01 - 01",
+      "empty": false,
+      "associated_products": [
+        {
+          "id": 512,
+          "local_quantity": 7
+        },
+        {
+          "id": 2312,
+          "local_quantity": 3
+        },
+        {
+          "id": 738,
+          "local_quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "loc_label": "01 - 01 - 01 - 02",
+      "empty": false,
+      "associated_products": [
+        {
+          "id": 12,
+          "local_quantity": 3
+        },
+        {
+          "id": 3315,
+          "local_quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "loc_label": "01 - 01 - 01 - 03",
+      "empty": false,
+      "associated_products": [
+        {
+          "id": 512,
+          "local_quantity": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "loc_label": "01 - 01 - 01 - 04",
+      "empty": true,
+      "associated_products": null
+    },
+    {
+      "id": 5,
+      "loc_label": "01 - 01 - 01 - 05",
+      "empty": true,
+      "associated_products": null
+    },
+    {
+      "id": 6,
+      "loc_label": "01 - 01 - 01 - 06",
+      "empty": true,
+      "associated_products": null
+    },
+    {
+      "id": 7,
+      "loc_label": "01 - 01 - 01 - 07",
+      "empty": true,
+      "associated_products": null
+    },
+    {
+      "id": 8,
+      "loc_label": "01 - 01 - 01 - 08",
+      "empty": true,
+      "associated_products": null
+    }
+  ]
+}
